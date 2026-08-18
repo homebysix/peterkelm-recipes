@@ -33,9 +33,6 @@
             <key>unattended_install</key>
             <true/>
             <key>installer_choices_xml</key>
-            <!--
-            Install rls too
-            -->
             <array>
                 <dict>
                     <key>attributeSetting</key>
