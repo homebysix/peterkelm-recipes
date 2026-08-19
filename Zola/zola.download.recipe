@@ -20,6 +20,8 @@
 			<dict>
 				<key>github_repo</key>
 				<string>getzola/zola</string>
+				<key>asset_regex</key>
+				<string>zola-v[0-9.]+-aarch64-apple-darwin.tar.gz</string>
 			</dict>
 			<key>Processor</key>
 			<string>GitHubReleasesInfoProvider</string>
