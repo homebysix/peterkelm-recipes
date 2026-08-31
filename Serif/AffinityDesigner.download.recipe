@@ -25,7 +25,7 @@
 			<key>Arguments</key>
 			<dict>
 				<key>re_pattern</key>
-				<string>((?P&lt;url&gt;https://d1gl0nrskhax8d\.cloudfront\.net/macos/designer\d?/\d+(\.\d*){2,}/(?P&lt;filename&gt;affinity-designer-(?P&lt;version&gt;\d+(\.\d*){2,})\.dmg))\?Expires=(?P&lt;expires&gt;\d+)&amp;amp;Signature=(?P&lt;signature&gt;[\w\~\-]+)&amp;amp;Key-Pair-Id=(?P&lt;key&gt;[\w]+))</string>
+				<string>((?P&lt;url&gt;https://downloads\.affinstatic\.com/macos/designer\d?/\d+(\.\d*){2,}/(?P&lt;filename&gt;affinity-designer-(?P&lt;version&gt;\d+(\.\d*){2,})\.dmg))\?Expires=(?P&lt;expires&gt;\d+)&amp;amp;Signature=(?P&lt;signature&gt;[\w\~\-]+)&amp;amp;Key-Pair-Id=(?P&lt;key&gt;[\w]+))</string>
 				<key>result_output_var_name</key>
 				<string>url</string>
 				<key>url</key>
